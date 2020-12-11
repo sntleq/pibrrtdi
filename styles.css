@@ -166,3 +166,20 @@ body {
   font-family:"Sequel";
   src:url("assets/Sequel100Black-85.ttf") format("truetype");
 }
+
+/* laptop styles */
+
+@media screen and (min-width:960px) {
+    body {
+        font-size:18px;
+    }
+}
+
+/* desktop styles */
+
+@media screen and (min-width:1200px) {
+    body {
+        font-size:20px;
+        max-width:1200px;
+    }
+}
