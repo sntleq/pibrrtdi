@@ -59,7 +59,7 @@ body {
   white-space:nowrap;
   font-size:3em;
   color:transparent;
-  -webkit-text-stroke-width: 3px;
+  -webkit-text-stroke-width: 1.5px;
   -webkit-text-stroke-color: #6d6875;
   z-index:2;
 }
@@ -72,7 +72,7 @@ body {
   white-space:nowrap;
   font-size:3em;
   color:transparent;
-  -webkit-text-stroke-width: 3px;
+  -webkit-text-stroke-width: 1.5px;
   -webkit-text-stroke-color: #6d6875;
   z-index:2;
 }
@@ -127,7 +127,7 @@ body {
   margin:-0.3em;
   font-size:3em;
   color:transparent;
-  -webkit-text-stroke-width: 3px;
+  -webkit-text-stroke-width: 1.5px;
   -webkit-text-stroke-color: #6d6875;
   opacity:0;
 }
