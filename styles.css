@@ -5,7 +5,7 @@ body {
   overflow-x:hidden;
   background:#ffcdb2;
   color:#6d6875;
-  font-family:"Circular";
+  font-family:"Hanson";
   font-weight:bold;
 }
 #intro {
@@ -172,6 +172,10 @@ body {
 @font-face {
   font-family:"Circular";
   src:url("assets/CircularStd-Bold.ttf") format("truetype");
+}
+@font-face {
+  font-family:"Hanson";
+  src:url("assets/Hanson Bold.ttf") format("truetype");
 }
 
 /* laptop styles */
