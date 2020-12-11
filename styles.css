@@ -3,9 +3,9 @@ body {
   padding:0;
   position:relative;
   overflow-x:hidden;
-  background:#121212;
-  color:white;
-  font-family:"Sequel";
+  background:#ffcdb2;
+  color:#6d6875;
+  font-family:"Circular";
 }
 #intro {
   width:100vw;
@@ -81,7 +81,7 @@ body {
   background-image:url("assets/estecy.jpg");
   background-repeat:no-repeat;
   background-size:cover;
-  box-shadow: inset 0 0 0 50vw rgba(255,0,0,0.5);
+  box-shadow: inset 0 0 0 50vw rgba(229,152,155,0.5);
   z-index:1;
 }
 #boo {
@@ -142,7 +142,7 @@ body {
   background-repeat:no-repeat;
   background-size:cover;
   z-index:1;
-  box-shadow: inset 0 0 0 50vw rgba(0,255,0,0.5);
+  box-shadow: inset 0 0 0 50vw rgba(181,131,141,0.5);
 }
 #gift {
   width:100vw;
@@ -156,9 +156,9 @@ body {
 }
 #yesure {
   margin-bottom:45vh;
-  color:black;
+  color:#ffcdb2;
   text-decoration:none;
-  background:white;
+  background:#6d6875;
   padding:0.8125em 2em;
   width:25em;
   border-radius:1.5625em;
@@ -167,6 +167,10 @@ body {
 @font-face {
   font-family:"Sequel";
   src:url("assets/Sequel100Black-85.ttf") format("truetype");
+}
+@font-face {
+  font-family:"Circular";
+  src:url("assets/CircularStd-Bold.ttf") format("truetype");
 }
 
 /* laptop styles */
