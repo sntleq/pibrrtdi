@@ -174,10 +174,10 @@ body {
         font-size:18px;
     }
     .prlxup,.prlxupoutline {
-        bottom:50vh;
+        bottom:45vh;
     }
     .prlxdown,.prlxdownoutline {
-        top:50vh;
+        top:55vh;
     }
 }
 
