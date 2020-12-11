@@ -6,6 +6,7 @@ body {
   background:#ffcdb2;
   color:#6d6875;
   font-family:"Circular";
+  font-weight:bold;
 }
 #intro {
   width:100vw;
@@ -59,7 +60,7 @@ body {
   font-size:3em;
   color:transparent;
   -webkit-text-stroke-width: 1px;
-  -webkit-text-stroke-color: white;
+  -webkit-text-stroke-color: #6d6875;
   z-index:2;
 }
 .prlxdownoutline {
@@ -72,7 +73,7 @@ body {
   font-size:3em;
   color:transparent;
   -webkit-text-stroke-width: 1px;
-  -webkit-text-stroke-color: white;
+  -webkit-text-stroke-color: #6d6875;
   z-index:2;
 }
 #img1 {
@@ -127,7 +128,7 @@ body {
   font-size:3em;
   color:transparent;
   -webkit-text-stroke-width: 1px;
-  -webkit-text-stroke-color: white;
+  -webkit-text-stroke-color: #6d6875;
   opacity:0;
 }
 #img2 {
