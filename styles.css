@@ -173,6 +173,12 @@ body {
     body {
         font-size:18px;
     }
+    .prlxup,.prlxupoutline {
+        bottom:50vh;
+    }
+    .prlxdown,.prlxdownoutline {
+        top:50vh;
+    }
 }
 
 /* desktop styles */
