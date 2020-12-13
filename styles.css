@@ -133,12 +133,10 @@ body {
 }
 #img2 {
   position:absolute;
-  top:12%;
-  bottom:12%;
-  right:25%;
-  left:25%;
   width:50%;
-  height:76%;
+  height:10em;
+  margin-left:auto;
+  margin-right:auto;
   background-image:url("assets/bonag.jpeg");
   background-repeat:no-repeat;
   background-size:cover;
