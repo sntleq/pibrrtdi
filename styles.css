@@ -95,6 +95,7 @@ body {
   overflow-y:auto;
   position:relative;
   padding:0;
+  border:1px solid black;
 }
 #boosolid {
   width:50%;
@@ -136,7 +137,7 @@ body {
   top:12%;
   bottom:12%;
   width:14em;
-  left:50%
+  left:50%;
   margin-left:7em;
   height:76%;
   background-image:url("assets/bonag.jpeg");
