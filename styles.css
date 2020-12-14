@@ -102,7 +102,7 @@ body {
   height:95%;
   display:flex;
   flex-flow:column wrap;
-  align-content:center;
+  align-content:right;
   justify-content:flex-start;
   margin:0;
   z-index:0;
@@ -112,7 +112,7 @@ body {
   height:95%;
   display:flex;
   flex-flow:column wrap;
-  align-content:center;
+  align-content:left;
   justify-content:flex-end;
   margin:0;
   z-index:2;
@@ -120,12 +120,14 @@ body {
 .one,.two,.three,.four,.five {
   padding:0;
   margin:-0.3em;
+  margin-right:5em;
   font-size:3em;
   opacity:0;
 }
 .oneoutline,.twooutline,.threeoutline,.fouroutline,.fiveoutline {
   padding:0;
   margin:-0.3em;
+  margin-left:5em;
   font-size:3em;
   color:transparent;
   -webkit-text-stroke-width: 1.5px;
