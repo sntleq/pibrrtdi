@@ -136,8 +136,8 @@ body {
   top:12%;
   bottom:12%;
   width:14em;
-  margin-right:auto;
-  margin-left:auto;
+  left:50%
+  margin-left:7em;
   height:76%;
   background-image:url("assets/bonag.jpeg");
   background-repeat:no-repeat;
